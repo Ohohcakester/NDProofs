@@ -1,0 +1,6 @@
+Title:
+Sample Pack;
+
+Puzzles:
+A,(AvC)>B |- A^B;
+A,~A |- B;

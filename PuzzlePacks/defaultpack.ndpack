@@ -1,0 +1,33 @@
+Title:
+Oh's Custom Puzzles;
+
+Rules:
+
+{Iteration; IT; A |- A}
+{Conjunction Introduction; I^; A,B |- A^B}
+{Conjunction Elimination (Left); E^1; A^B |- A}
+{Conjunction Elimination (Right); E^2; A^B |- B}
+{Disjunction Introduction (Left); Iv1; A |- AvB}
+{Disjunction Introduction (Right); Iv2; B |- AvB}
+{Disjunction Elimination; Ev; AvB, A>C, B>C |- C}
+{Negation Introduction; I~; A>B^~B |- ~A}
+{Double Negation Elimination; E~; ~~A |- A}
+{Implication Elimination; E>; A, A>B |- B}
+{Implication Introduction; I>; (A |- B) |- A>B}
+
+Puzzles:
+A |- ~~A;
+A^B |- B^A;
+AvB |- BvA;
+P>R |- P>(Q>R);
+A>B |- ~B>~A;
+A^B, (BvC)>(DvE), D>E, (A^E)>~E |- F;
+~P>P |- P;
+P>Q, ~P>Q |- Q;
+P>Q, P>~Q, ~P>Q, ~P>~Q |- R;
+A>B |- ~AvB;
+~A, AvB |- B;
+~Av~B |- ~(A^B);
+(A^B)vC |- (AvC)^(BvC);
+(AvC)^(BvC) |- (A^B)vC;
+(A^C)v(B^C) |- (AvB)^C;
