@@ -24,4 +24,4 @@ No installation is required. Just compile and run.
 Pre-compiled:  
 https://www.mediafire.com/?5wefauuondf02xk  
 More info:  
-http://ohoh.byethost7.com/about.html
+http://ohoh.byethost7.com/?page=ndproofs
