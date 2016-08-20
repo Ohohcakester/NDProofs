@@ -17,11 +17,11 @@ Features
 - Automated truth-table checking of statements (runs in exponential time. No problem for <10 variables)
 
 
-Installation
+Releases
 =======
-No installation is required. Just compile and run.
+The .jar file and windows executable are available here. Just download and run:  
+- [Download version 0.99b](releases/download/0.99b/NDProofs.v0.9.9b.zip)
+- [Release Page](releases)
 
-Pre-compiled:  
-https://www.mediafire.com/?5wefauuondf02xk  
 More info:  
 http://ohoh.byethost7.com/?page=ndproofs
