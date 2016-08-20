@@ -20,8 +20,8 @@ Features
 Releases
 =======
 The .jar file and windows executable are available here. Just download and run:  
-- [Download version 0.99b](releases/download/0.99b/NDProofs.v0.9.9b.zip)
-- [Release Page](releases)
+- [Download version 0.99b](../../releases/download/0.99b/NDProofs.v0.9.9b.zip)
+- [Release Page](../../releases)
 
 More info:  
 http://ohoh.byethost7.com/?page=ndproofs
